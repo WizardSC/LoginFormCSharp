@@ -115,6 +115,7 @@
             btnDangNhap.TabIndex = 7;
             btnDangNhap.Text = "ĐĂNG NHẬP";
             btnDangNhap.UseVisualStyleBackColor = false;
+            btnDangNhap.Click += btnDangNhap_Click;
             // 
             // label2
             // 

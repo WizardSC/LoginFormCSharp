@@ -8,10 +8,10 @@ namespace DTO
 {
     public class TaiKhoanDTO
     {
-        private string maTK { get; set; }
-        private string taiKhoan { get; set; }
-        private string matKhau { get; set; }
-        private int quyen { get; set; }
+        public string maTK { get; set; }
+        public string taiKhoan { get; set; }
+        public string matKhau { get; set; }
+        public int quyen { get; set; }
        
     }
 }
